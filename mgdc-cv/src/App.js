@@ -9,7 +9,7 @@ const App = () => {
   return (
     <Router>
       <div>
-        <h1>React App with Routing</h1>
+
         <Routes>
           <Route path="/" element={<MainPage />} />
 
