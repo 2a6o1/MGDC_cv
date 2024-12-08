@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MGDC_cv/static/css/main.6d29517a.css",
+    "main.js": "/MGDC_cv/static/js/main.fe8b4c35.js",
+    "static/js/453.d16b8c1f.chunk.js": "/MGDC_cv/static/js/453.d16b8c1f.chunk.js",
+    "static/media/premio-ganador.png": "/MGDC_cv/static/media/premio-ganador.0aabcf227a846161b57b.png",
+    "index.html": "/MGDC_cv/index.html",
+    "main.6d29517a.css.map": "/MGDC_cv/static/css/main.6d29517a.css.map",
+    "main.fe8b4c35.js.map": "/MGDC_cv/static/js/main.fe8b4c35.js.map",
+    "453.d16b8c1f.chunk.js.map": "/MGDC_cv/static/js/453.d16b8c1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d29517a.css",
+    "static/js/main.fe8b4c35.js"
+  ]
+}
